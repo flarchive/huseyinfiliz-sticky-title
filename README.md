@@ -2,13 +2,22 @@
 
 > **Read-only archive of released versions of huseyinfiliz/sticky-title.** Not for installation: use [Packagist](https://packagist.org/packages/huseyinfiliz/sticky-title) or the [upstream repository](https://github.com/huseyinfiliz/sticky-title).
 
-**0** versions archived · Latest: [`2.0.1`](https://github.com/flarchive/huseyinfiliz-sticky-title/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^2.0.0-rc.1`
+**10** versions archived · Latest: [`2.0.1`](https://github.com/flarchive/huseyinfiliz-sticky-title/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^2.0.0-rc.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.8.3` | 2026-06-02 | `^1.8` | [Browse](https://github.com/flarchive/huseyinfiliz-sticky-title/tree/archive/v1.8.3) |
+| `2.0` | 2026-06-02 | `^2.0.0-rc.1` | [Browse](https://github.com/flarchive/huseyinfiliz-sticky-title/tree/archive/v2.0) |
+| `2.0.1` | 2026-06-02 | `^2.0.0-rc.1` | [Browse](https://github.com/flarchive/huseyinfiliz-sticky-title/tree/archive/v2.0.1) |
+| `v0.1` | 2025-08-22 | `^1.8` | [Browse](https://github.com/flarchive/huseyinfiliz-sticky-title/tree/archive/v0.1) |
+| `v0.5` | 2025-08-25 | `^1.8` | [Browse](https://github.com/flarchive/huseyinfiliz-sticky-title/tree/archive/v0.5) |
+| `v1` | 2025-08-26 | `^1.8` | [Browse](https://github.com/flarchive/huseyinfiliz-sticky-title/tree/archive/v1) |
+| `v1.5` | 2025-10-08 | `^1.8` | [Browse](https://github.com/flarchive/huseyinfiliz-sticky-title/tree/archive/v1.5) |
+| `v1.8` | 2025-10-08 | `^1.8` | [Browse](https://github.com/flarchive/huseyinfiliz-sticky-title/tree/archive/v1.8) |
+| `v1.8.1` | 2026-06-02 | `^1.8` | [Browse](https://github.com/flarchive/huseyinfiliz-sticky-title/tree/archive/v1.8.1) |
+| `v1.8.2` | 2026-06-02 | `^1.8` | [Browse](https://github.com/flarchive/huseyinfiliz-sticky-title/tree/archive/v1.8.2) |
 
 Catalog entry: [packages/huseyinfiliz-sticky-title.json](https://github.com/flarchive/archive-index/blob/main/packages/huseyinfiliz-sticky-title.json)
 
